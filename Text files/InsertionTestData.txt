@@ -1,0 +1,50 @@
+ins b a w 
+file 1
+AVL data
+297 1 7 10 
+Bst data
+297 1 9 19 
+file 2
+AVL data
+594 1 8 10
+Bst data
+594 1 17 37
+file 3
+AVL data
+891 1 8 11
+Bst data
+891 1 25 54
+file 4
+AVL data
+1188 1 9 12
+Bst data
+1188 1 33 72
+file 5
+AVL data
+1485 1 9 12
+Bst data
+1485 1 41 82
+file 6
+AVL data
+1782 1 9 12
+Bst data
+1782 1 49 108
+file 7
+AVL data
+2079 1 10 13
+Bst data
+2079 1 58 134
+file 8
+AVL data
+2376 1 10 13
+Bst data
+2376 1 69 157
+file 9
+AVL data
+2673 1 10 13
+Bst data
+2673 1 79 183
+AVL data
+2970 1 10 13
+Bst data
+2970 1 90 206

@@ -1,0 +1,36 @@
+Instrumentation for the BST 
+*Trial test values and outputs (Part 2).
+*Three valid inputs for the find method:
+-input 1 : 2_18_08
+The Areas are/is: [1, 9] and The count is:{55}
+-input 2 : 3_23_20
+The Areas are/is: [12, 4, 16] and The count is:{113} 
+-input 3 : 8_23_10
+The Areas are/is: [7, 15, 3, 11, 8, 16, 4, 12] and The count is:{369} 
+
+*Three invalid inputs for the find method:
+-input 1 : 4_10 
+Error enter valid entry:  and The count is:{0}
+-input 2 : 5_20_@
+Entry not found :  and The count is:{382}
+-input 3 : 6;_10_12
+Entry not found :  and The count is:{352}
+
+Instrumentation for the AVL Tree 
+*Trial test values and outputs (Part 4).
+*Three valid inputs:
+-input 1 : 2_18_08
+The Areas are/is: [1, 9] and The count is:{5}
+-input 2 : 3_23_20
+The Areas are/is: [12, 4, 16] and The count is:{6} 
+-input 3 : 8_23_10
+The Areas are/is: [7, 15, 3, 11, 8, 16, 4, 12] and The count is:{7}  
+
+*Three invalid inputs :
+-input 1 : 4_10 
+Error enter valid entry:  and The count is:{0}
+-input 2 : 5_20_@
+Entry not found :  and The count is:{10}
+-input 3 : 6;_10_12
+Entry not found :  and The count is:{10}
+
